@@ -34,6 +34,7 @@ tBodyAcc-std-X
     Standard deviation of body acceleration signals for X axis
 
 tBodyAcc-std-Y
+    
     Standard deviation of body acceleration signals for Y axis
 
 tBodyAcc-std-Z
