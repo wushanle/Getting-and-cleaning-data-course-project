@@ -2,7 +2,7 @@
 #### Data set in TidyData.txt
 The data set contains the average of each measures by subject and activity.
 
-Subject 2
+Subject
 
     The identifier of the subject who carried out the experiment
     1..30  .Indicate which of the 30 volunteers who participated the experiment
