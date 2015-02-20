@@ -12,19 +12,19 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 - mean - average of the the measure
 - std - standard deviatio of the measure
 - XYZ - denote 3-axial signals in the X, Y and Z directions
-- tBodyAcc
-- tGravityAcc
+- tBodyAcc: body acceleration signals
+- tGravityAcc: gravity acceleration signals
 - tBodyAccJerk
-- tBodyGyro
+- tBodyGyro: boday gyroscope signals
 - tBodyGyroJerk
 - tBodyAccMag
 - tGravityAccMag
 - tBodyAccJerkMag
 - tBodyGyroMag
 - tBodyGyroJerkMag
-- fBodyAcc-XYZ
-- fBodyAccJerk-XYZ
-- fBodyGyro-XYZ
+- fBodyAcc
+- fBodyAccJerk
+- fBodyGyro
 - fBodyAccMag
 - fBodyAccJerkMag
 - fBodyGyroMag
