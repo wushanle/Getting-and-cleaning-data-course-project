@@ -1,3 +1,7 @@
+#######################################################################
+# Mergin and clean the origin data set to obtain the tidy data set
+#######################################################################
+
 ## Read in data
 
 Dir = "C:/Users/momo/Desktop/Coursera/3. Getting and cleaning data/Project/"
